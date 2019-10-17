@@ -48,7 +48,7 @@ li {
 }
 
 #home-col-1{
-			display: inline-block;
+			display: inline;
 			width:400px;
 			margin: 10px 40px 10px 100px;
 					}
