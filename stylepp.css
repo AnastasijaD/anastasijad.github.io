@@ -1,5 +1,4 @@
-
-		}
+}
 		body{
 			background-color: #ffffff;}
 		#container {
@@ -9,11 +8,12 @@
 			background-color:  #ffffff;
 			
 		}
+	
 		
 
 		header ul {
 			list-style-type: none;
-			margin: 2;
+			margin: 0;
 			padding: 0;
 			overflow: hidden;
 			background-color: #ffffff;
@@ -42,6 +42,8 @@ header li a:hover {
 		}
 		
 		
+		
+		
 		/* Add a gray right border to all list items */
 li {
   border-right: 1px solid #bbb;
@@ -50,7 +52,7 @@ li {
 #home-col-1{
 			display: inline-block;
 			width:400px;
-			margin: 10px 40px 10px 100px;
+			margin: 10px 40px 10px 200px;
 					}
 			
 #home-col-2{
@@ -68,7 +70,7 @@ li {
 			#about-col-2{
 			display: inline-block;
 			width:230px;
-			margin: 10px 40px 10px 70px;
+			margin: 10px 40px 10px 80px;
 			}
 			#about-col-3{
 			display: inline-block;
@@ -83,7 +85,10 @@ li {
 			text-align:center;
 			font-size: 12px;
 			}
-			
+			footer div{
+			width: 200px;
+			margin: 0 auto;
+			}
 			
 			
 			#learn {
@@ -150,7 +155,7 @@ li {
   background: #3B5998;
   color: white;
   display: inline-block;
-margin: 0px 40px 10px 630px;
+margin: 0px 40px 10px 600px;
 }
 
 /* Instagram */
@@ -158,10 +163,40 @@ margin: 0px 40px 10px 630px;
   background: #cc0052;
   color: white;
   display: inline-block;
-margin: 0px 40px 10px 630px;
+margin: 0px 40px 10px 600px;
+}
+
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook1 {
+  background: #3B5998;
+  color: white;
+  display: inline-block;
+margin: 20px 40px 10px 300px;
+}
+
+/* Instagram */
+.fa-instagram1 {
+  background: #cc0052;
+  color: white;
+  display: inline-block;
+margin: 0px 40px 10px 300px;
+}
+
+.col-sm-4 {
+text-decoration: none;
+				 font-style: oblique;
+				 font-size: 30px;
+				 text-align: center;
+			color: #993366;
 }
 				 
 				 
+
+
+
 
 
 
